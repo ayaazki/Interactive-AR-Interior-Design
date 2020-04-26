@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Content/Scenes/InterionAR.unity
+    path: Assets/_Content/_Scenes/StartScene.unity
+    guid: add73a9635462ab439014b95bd345dfa
+  - enabled: 1
+    path: Assets/_Content/_Scenes/InterionAR.unity
     guid: 8c1adddf4c8345d48b6686ea5d60ab7d
   m_configObjects: {}
