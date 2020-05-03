@@ -53,4 +53,9 @@ public class NextScene : MonoBehaviour
         }
   
     }
+
+    public void LoadNext()
+    {
+        SceneManager.LoadScene(sceneName);
+    }
 }
